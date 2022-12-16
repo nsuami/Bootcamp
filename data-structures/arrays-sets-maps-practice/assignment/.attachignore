@@ -1,0 +1,5 @@
+jest.config.js
+__tests__/firstSingleCharacter.test.js
+__tests__/anagram.test.js
+__tests__/anagramGroups.test.js
+__tests__/permutationPalindrome.test.js
